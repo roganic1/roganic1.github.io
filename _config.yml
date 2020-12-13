@@ -27,6 +27,9 @@ url: "https://irenerogan.com/" # the base hostname & protocol for your site, e.g
 twitter_username: 
 github_username:  
 
+# Google Analytics
+google_analytics: G-7NHD1CXRSF
+
 # Build settings
 theme: minima
 plugins:
