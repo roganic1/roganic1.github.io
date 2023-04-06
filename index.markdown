@@ -14,6 +14,7 @@ I have over a decade of consulting and program management experience at Booz All
 </p>
 
 ## Education
+- M.S. in Information and Data Science, University of California, Berkeley 
 - M.S. in Computer Science, Boston University
 - B.A. in Economics, Grove City College
 
