@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hi! I'm Irene Rogan Shaffer. I'm an experienced computer and data scientist, product manager, and people manager. I'm also a [wife](https://www.ryanshaffer.net/), mom, triathlete, and have completed several half-marathons and a marathon. 
+Hi! I'm Irene Rogan Shaffer. I'm an experienced computer scientist, product manager, and people manager. I'm also a [wife](https://www.ryanshaffer.net/), mom, triathlete, and have completed several half-marathons and a marathon. 
 
 
 <p align="center">
@@ -26,7 +26,7 @@ Hi! I'm Irene Rogan Shaffer. I'm an experienced computer and data scientist, pro
 ## Research Interests
 - Machine learning
 - Accessibility
-- Human-Computer interaction
+- Human-computer interaction
 
 ## Research Importance
 Machine learning models are becoming more embedded in our everyday lives. Without a diverse and inclusive dataset, models will be inaccurate for people on the edges of the population, including those with disabilities. However, researchers are motivated by general success of their model, and it has not been demonstrated that including representative data from the edges of the population improve overall performance on the general population. Therefore, representation in datasets remains a significant challenge.
