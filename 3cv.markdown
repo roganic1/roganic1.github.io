@@ -4,4 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-Coming soon!
+## CV
+[**CV: Irene Rogan Shaffer**](/papers/cv.pdf)  
+Updated 12/3/2023

@@ -5,9 +5,8 @@
 layout: home
 ---
 
-Hi! I'm Irene Rogan Shaffer. I'm currently a PM Manager with the Microsoft AI Development Acceleration Program in Cambridge, MA. I'm also a triathlete and have completed several half-marathons and a marathon. 
+Hi! I'm Irene Rogan Shaffer. I'm an experienced data scientist, product manager, and people manager. I'm also a triathlete and have completed several half-marathons and a marathon. 
 
-I have over a decade of consulting and program management experience at Booz Allen Hamilton and Microsoft. 
 
 <p align="center">
 <img src="/images/irene.jpg" width="80%" alt="Skydiving" />
@@ -20,25 +19,30 @@ I have over a decade of consulting and program management experience at Booz All
 
 ## Industry Experience
 - PM Manager, AI Development Acceleration Program, Microsoft
-- Program Manager, Microsoft
+- Program Manager, Machine Learning, Microsoft
 - Associate, Booz Allen Hamilton 
 
-## Patents
-[**Method and apparatus to accurately interpret facial expressions in American Sign Language**](https://patents.google.com/patent/US10679042B2/)  
-Irene Rogan Shaffer  
-US Patent No. 10679042, issued June 2020. 
 
-## Papers
-[**PerfGuard: Deploying ML-for-Systems without Performance Regressions**](/papers/perfguard.pdf)  
-H M Sajjad Hossain, Lucas Rosenblatt, Gilbert Antonius, Irene Shaffer, Remmelt Ammerlaan, Abhishek Roy, Markus Weimer, Hiren Patel, Marc Friedman, Shi Qiao, Peter Orenberg, Soundarajan Srinivasan, Vijay Ramani, Alekh Jindal  
-MLOps Systems 2020, Austin, USA.
+## Research Interests
+- Machine learning
+- Accessibility
+- Human-Computer interaction
 
-[**Exploring the Performance of Facial Expression Recognition Technologies on Deaf Adults October 2018 and Their Children**](https://doi.org/10.1145/3234695.3240986)  
-Irene Rogan Shaffer  
-ASSETS '18 Student Research Competition (paper and poster) Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility, October 2018, Pages 474–476.
+## Research Importance
+Machine learning models are becoming more embedded in our everyday lives. Without a diverse and inclusive dataset, models will be inaccurate for people on the edges of the population, including those with disabilities. However, researchers are motivated by general success of their model, and it has not been demonstrated that including representative data from the edges of the population improve overall performance on the general population. Therefore, representation in datasets remains a significant challenge.
 
-See my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=4TP-HQkAAAAJ) for a complete list.
+## Intersection of Theoretical Lenses   
+My research draws from the intersection of several theoretical lenses:
+
+<p align="center">
+<img src="/images/theoretical lenses.jpg" width="80%" alt="Theoretical Lenses" />
+</p>
 
 ## Native Languages
-- American Sign Language
-- English
+- American Sign Language (native)
+- English (native)
+
+## Social Media
+- [Github](https://github.com/roganic1) 
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=4TP-HQkAAAAJ)
+- [LinkedIn](https://scholar.google.com/citations?hl=en&user=4TP-HQkAAAAJ)
