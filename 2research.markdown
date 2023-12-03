@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ## Research Statement
-My broad research interests involve the intersections of machine learning and accessibility. More specifically, facial expressions are a core part of American Sign Language (ASL) , but facial expression recognition technologies for ASL are very immature. I am interested in developing diverse and inclusive datasets to ensure that these technologies empower the Deaf community rather than discriminate against them. 
+My broad research interests involve the intersection of machine learning and accessibility. More specifically, facial expressions are a core part of American Sign Language (ASL), but facial expression recognition technologies for ASL are very immature. I am interested in developing diverse and inclusive datasets to ensure that these technologies empower the Deaf community rather than discriminate against them. 
 
 ## Patents
 [**Method and apparatus to accurately interpret facial expressions in American Sign Language**](https://patents.google.com/patent/US10679042B2/)  
