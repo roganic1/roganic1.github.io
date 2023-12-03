@@ -43,6 +43,5 @@ My research draws from the intersection of several theoretical lenses:
 - English (native)
 
 ## Social Media
-- [Github](https://github.com/roganic1) 
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=4TP-HQkAAAAJ)
 - [LinkedIn](https://scholar.google.com/citations?hl=en&user=4TP-HQkAAAAJ)
