@@ -4,7 +4,7 @@ title: Coursework
 permalink: /coursework/
 ---
 
-## Coursework 
+## Coursework
 Schedule and outline for completion of Ph.D. coursework:  
 
 <p align="center">
