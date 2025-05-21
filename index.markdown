@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hi! I'm Irene Rogan Shaffer. I'm an experienced computer scientist, product manager, and people manager. I'm also a [wife](https://www.ryanshaffer.net/), mom, triathlete, and have completed several half-marathons and a marathon. 
+Hi! I'm Irene Rogan Shaffer. I'm an experienced computer scientist, product manager, and people manager. I'm also a [ex-wife](https://www.ryanshaffer.net/), mom, triathlete, and have completed several half-marathons and a marathon. 
 
 
 <p align="center">
