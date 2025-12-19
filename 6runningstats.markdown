@@ -4,8 +4,8 @@ title: Running Statistics
 permalink: /running statistics/
 ---
 
-## Running Statistics
-Co-captain: Park Street Parents Running Club
+## Team
+Co-captain: Park Street Mom's Running Club
 
 ## Races
 [**Cambridge Winter Classic 5K**](https://track.rtrt.me/e/TLMR-WINTER-CLASSIC-2025#/dash/RYSVRPDE)  
