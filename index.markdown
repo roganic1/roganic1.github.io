@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hi! I'm Irene Rogan Shaffer. I'm an experienced computer scientist, product manager, and people manager. I'm also a runner, triathlete, and have completed several half-marathons and a marathon. 
+Hi! I'm Irene Rogan Shaffer. I'm a technology leader with experience spanning computer and data scientist, product management, and people leadership. Growing up as the child of Deaf adults fostered my appreciation for communication, accessibility, and the power of technology to connect people. Throughout my career, I've focused on building innovative products, developing high-performing teams, and driving meaningful impact. Outside of work, I'm an avid runner and triathlete who has completed multiple half-marathons and a marathon.  
 
 
 <p align="center">
