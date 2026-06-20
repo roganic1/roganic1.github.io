@@ -8,7 +8,7 @@ permalink: /running statistics/
 Co-captain: Park Street Mom's Running Club
 
 ## Races
-[**BAA 10K: 6/2026**]( )  
+[**BAA 10K: 6/2026**](https://www.baa.org/races/boston-10k/)  
 - Finish Time:  
 - Overall:  
 - Gender:  
