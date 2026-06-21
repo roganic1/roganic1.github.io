@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hi! I'm Irene Rogan Shaffer. I’m a technology leader with experience in computer and data science, product management, and people leadership. Growing up as a child of Deaf adults shaped my passion for communication, accessibility, and technology that connects people. I enjoy building innovative products, developing high-performing teams, and creating meaningful impact. Outside of work, I’m an avid runner and triathlete.
+Hi! I'm Irene Rogan Shaffer. I’m a technology leader with experience in computer and data science, product management, and people leadership. Growing up as a child of Deaf adults shaped my passion for communication, accessibility, and technology that connects people. I enjoy building innovative products, developing high-performing teams, and creating meaningful impact. Outside of work, I’m an avid runner, triathlete, and member of Park Street Church.
 
 
 <p align="center">
