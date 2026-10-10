@@ -8,6 +8,11 @@ permalink: /running statistics/
 Co-captain: Park Street Mom's Running Club
 
 ## Races
+[**Boston Women's 10K: 10/2026**](https://results.laurelt.com/bfw/results?sort=&search=irene+shaffer&race=168270&date=&event=&gender=&division=&loc_174048=&page_174048=1&size_174048=25)  
+- Finish Time: 1:06:05 (10:39/mile with stroller and chatting with a friend!) 
+- Overall: 2,965 
+- Age Group (30-39): 881
+
 [**BAA 10K: 6/2026**](https://www.baa.org/races/boston-10k/)  
 - Finish Time: 49:14 (7:56/mile)
 - Overall: 1,697/9,876
